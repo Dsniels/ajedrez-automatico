@@ -126,7 +126,7 @@ Asegúrate de tener instalados los siguientes componentes:
      - `D7`: Pin digital **2**
    - Conecta el botón al pin digital **7**, asegurándote de configurarlo como `INPUT_PULLUP` en el código. 
     -   Pocisionar la camara encima del tablero de ajedrez, por medio de la transimision en vivo puedes ver si el tablero se ve por la camara
-    - Una vez realizadas las conexiones, asegurate de conectar el ESP32-Cam y el arduino a la
+    - Una vez realizadas las conexiones, asegurate de conectar el ESP32-Cam y el arduino a la computadora
 3. **Ejecutar el programa de comunicación serial**:
    - Navega a la carpeta `SerialComunication` y ejecuta:
      ```bash
